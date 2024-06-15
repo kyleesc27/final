@@ -7,7 +7,7 @@ st.title("All About KYLE ESCARILLA 🙎🏻‍♂️")
 st.title("📷: Imahe")
 
 
-image_paths = ["./pic/kyle.jfif", "./pic/kyle.jfif", "./pic/kyle.jfif"]
+image_paths = ["./pic/kyle.jfif"]
 
 
 cols = st.columns(len(image_paths))
